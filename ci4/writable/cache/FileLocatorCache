@@ -1,0 +1,288 @@
+<?php return array (
+  'search' => 
+  array (
+    'Config/Services' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\app\\Config\\Services.php',
+          1 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Config\\Services.php',
+        ),
+      ),
+    ),
+    'Config/Registrar.php' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+        ),
+      ),
+    ),
+    'Helpers/kint_helper' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Helpers\\kint_helper.php',
+        ),
+      ),
+    ),
+    'Helpers/url_helper' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Helpers\\url_helper.php',
+        ),
+      ),
+    ),
+    'Helpers/filesystem_helper' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Helpers\\filesystem_helper.php',
+        ),
+      ),
+    ),
+    'Config/Events.php' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\app\\Config\\Events.php',
+        ),
+      ),
+    ),
+    'Config/Filters.php' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\app\\Config\\Filters.php',
+          1 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Config\\Filters.php',
+        ),
+      ),
+    ),
+    'Helpers/array_helper' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Helpers\\array_helper.php',
+        ),
+      ),
+    ),
+    'Config/Routes.php' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\app\\Config\\Routes.php',
+        ),
+      ),
+    ),
+    'Language/en/HTTP.php' => 
+    array (
+      'php' => 
+      array (
+        0 => 
+        array (
+          0 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Language\\en\\HTTP.php',
+        ),
+      ),
+    ),
+    'Language/en/Errors.php' => 
+    array (
+      'php' => 
+      array (
+        0 => 
+        array (
+          0 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Language\\en\\Errors.php',
+        ),
+      ),
+    ),
+    'Config\\Factory' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Config\\Factory.php',
+        ),
+      ),
+    ),
+    'Helpers/number_helper' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Helpers\\number_helper.php',
+        ),
+      ),
+    ),
+    'Language/en/Number.php' => 
+    array (
+      'php' => 
+      array (
+        0 => 
+        array (
+          0 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Language\\en\\Number.php',
+        ),
+      ),
+    ),
+  ),
+  'findQualifiedNameFromPath' => 
+  array (
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\app\\Config\\Services.php' => 'Config\\Services',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Config\\Factory.php' => 'CodeIgniter\\Config\\Factory',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Cache\\ClearCache.php' => 'CodeIgniter\\Commands\\Cache\\ClearCache',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Cache\\InfoCache.php' => 'CodeIgniter\\Commands\\Cache\\InfoCache',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Database\\CreateDatabase.php' => 'CodeIgniter\\Commands\\Database\\CreateDatabase',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Database\\Migrate.php' => 'CodeIgniter\\Commands\\Database\\Migrate',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Database\\MigrateRefresh.php' => 'CodeIgniter\\Commands\\Database\\MigrateRefresh',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Database\\MigrateRollback.php' => 'CodeIgniter\\Commands\\Database\\MigrateRollback',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Database\\MigrateStatus.php' => 'CodeIgniter\\Commands\\Database\\MigrateStatus',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Database\\Seed.php' => 'CodeIgniter\\Commands\\Database\\Seed',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Database\\ShowTableInfo.php' => 'CodeIgniter\\Commands\\Database\\ShowTableInfo',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Encryption\\GenerateKey.php' => 'CodeIgniter\\Commands\\Encryption\\GenerateKey',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\CellGenerator.php' => 'CodeIgniter\\Commands\\Generators\\CellGenerator',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\CommandGenerator.php' => 'CodeIgniter\\Commands\\Generators\\CommandGenerator',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\ConfigGenerator.php' => 'CodeIgniter\\Commands\\Generators\\ConfigGenerator',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\ControllerGenerator.php' => 'CodeIgniter\\Commands\\Generators\\ControllerGenerator',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\EntityGenerator.php' => 'CodeIgniter\\Commands\\Generators\\EntityGenerator',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\FilterGenerator.php' => 'CodeIgniter\\Commands\\Generators\\FilterGenerator',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\MigrationGenerator.php' => 'CodeIgniter\\Commands\\Generators\\MigrationGenerator',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\ModelGenerator.php' => 'CodeIgniter\\Commands\\Generators\\ModelGenerator',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\ScaffoldGenerator.php' => 'CodeIgniter\\Commands\\Generators\\ScaffoldGenerator',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\SeederGenerator.php' => 'CodeIgniter\\Commands\\Generators\\SeederGenerator',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\TestGenerator.php' => 'CodeIgniter\\Commands\\Generators\\TestGenerator',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\TransformerGenerator.php' => 'CodeIgniter\\Commands\\Generators\\TransformerGenerator',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\ValidationGenerator.php' => 'CodeIgniter\\Commands\\Generators\\ValidationGenerator',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\cell.tpl.php' => false,
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\cell_view.tpl.php' => false,
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\command.tpl.php' => false,
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\config.tpl.php' => false,
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\controller.tpl.php' => false,
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\entity.tpl.php' => false,
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\filter.tpl.php' => false,
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\migration.tpl.php' => false,
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\model.tpl.php' => false,
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\seeder.tpl.php' => false,
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\test.tpl.php' => false,
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\transformer.tpl.php' => false,
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\validation.tpl.php' => false,
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Help.php' => 'CodeIgniter\\Commands\\Help',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Housekeeping\\ClearDebugbar.php' => 'CodeIgniter\\Commands\\Housekeeping\\ClearDebugbar',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Housekeeping\\ClearLogs.php' => 'CodeIgniter\\Commands\\Housekeeping\\ClearLogs',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\ListCommands.php' => 'CodeIgniter\\Commands\\ListCommands',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Server\\Serve.php' => 'CodeIgniter\\Commands\\Server\\Serve',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Translation\\LocalizationFinder.php' => 'CodeIgniter\\Commands\\Translation\\LocalizationFinder',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Translation\\LocalizationSync.php' => 'CodeIgniter\\Commands\\Translation\\LocalizationSync',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\ConfigCheck.php' => 'CodeIgniter\\Commands\\Utilities\\ConfigCheck',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Environment.php' => 'CodeIgniter\\Commands\\Utilities\\Environment',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\FilterCheck.php' => 'CodeIgniter\\Commands\\Utilities\\FilterCheck',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Namespaces.php' => 'CodeIgniter\\Commands\\Utilities\\Namespaces',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Optimize.php' => 'CodeIgniter\\Commands\\Utilities\\Optimize',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\PhpIniCheck.php' => 'CodeIgniter\\Commands\\Utilities\\PhpIniCheck',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Publish.php' => 'CodeIgniter\\Commands\\Utilities\\Publish',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Routes.php' => 'CodeIgniter\\Commands\\Utilities\\Routes',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Routes\\AutoRouteCollector.php' => 'CodeIgniter\\Commands\\Utilities\\Routes\\AutoRouteCollector',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Routes\\AutoRouterImproved\\AutoRouteCollector.php' => 'CodeIgniter\\Commands\\Utilities\\Routes\\AutoRouterImproved\\AutoRouteCollector',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Routes\\AutoRouterImproved\\ControllerMethodReader.php' => 'CodeIgniter\\Commands\\Utilities\\Routes\\AutoRouterImproved\\ControllerMethodReader',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Routes\\ControllerFinder.php' => 'CodeIgniter\\Commands\\Utilities\\Routes\\ControllerFinder',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Routes\\ControllerMethodReader.php' => 'CodeIgniter\\Commands\\Utilities\\Routes\\ControllerMethodReader',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Routes\\FilterCollector.php' => 'CodeIgniter\\Commands\\Utilities\\Routes\\FilterCollector',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Routes\\FilterFinder.php' => 'CodeIgniter\\Commands\\Utilities\\Routes\\FilterFinder',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Routes\\SampleURIGenerator.php' => 'CodeIgniter\\Commands\\Utilities\\Routes\\SampleURIGenerator',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Worker\\Views\\Caddyfile.tpl' => false,
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Worker\\Views\\frankenphp-worker.php.tpl' => false,
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Worker\\WorkerInstall.php' => 'CodeIgniter\\Commands\\Worker\\WorkerInstall',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Worker\\WorkerUninstall.php' => 'CodeIgniter\\Commands\\Worker\\WorkerUninstall',
+  ),
+  'getClassname' => 
+  array (
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\app\\Config\\Filters.php' => 'Config\\Filters',
+    'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Config\\Filters.php' => 'CodeIgniter\\Config\\Filters',
+  ),
+  'listFiles' => 
+  array (
+    'Commands/' => 
+    array (
+      0 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Cache\\ClearCache.php',
+      1 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Cache\\InfoCache.php',
+      2 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Database\\CreateDatabase.php',
+      3 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Database\\Migrate.php',
+      4 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Database\\MigrateRefresh.php',
+      5 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Database\\MigrateRollback.php',
+      6 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Database\\MigrateStatus.php',
+      7 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Database\\Seed.php',
+      8 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Database\\ShowTableInfo.php',
+      9 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Encryption\\GenerateKey.php',
+      10 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\CellGenerator.php',
+      11 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\CommandGenerator.php',
+      12 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\ConfigGenerator.php',
+      13 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\ControllerGenerator.php',
+      14 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\EntityGenerator.php',
+      15 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\FilterGenerator.php',
+      16 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\MigrationGenerator.php',
+      17 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\ModelGenerator.php',
+      18 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\ScaffoldGenerator.php',
+      19 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\SeederGenerator.php',
+      20 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\TestGenerator.php',
+      21 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\TransformerGenerator.php',
+      22 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\ValidationGenerator.php',
+      23 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\cell.tpl.php',
+      24 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\cell_view.tpl.php',
+      25 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\command.tpl.php',
+      26 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\config.tpl.php',
+      27 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\controller.tpl.php',
+      28 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\entity.tpl.php',
+      29 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\filter.tpl.php',
+      30 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\migration.tpl.php',
+      31 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\model.tpl.php',
+      32 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\seeder.tpl.php',
+      33 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\test.tpl.php',
+      34 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\transformer.tpl.php',
+      35 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Generators\\Views\\validation.tpl.php',
+      36 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Help.php',
+      37 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Housekeeping\\ClearDebugbar.php',
+      38 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Housekeeping\\ClearLogs.php',
+      39 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\ListCommands.php',
+      40 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Server\\Serve.php',
+      41 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Translation\\LocalizationFinder.php',
+      42 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Translation\\LocalizationSync.php',
+      43 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\ConfigCheck.php',
+      44 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Environment.php',
+      45 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\FilterCheck.php',
+      46 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Namespaces.php',
+      47 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Optimize.php',
+      48 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\PhpIniCheck.php',
+      49 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Publish.php',
+      50 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Routes.php',
+      51 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Routes\\AutoRouteCollector.php',
+      52 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Routes\\AutoRouterImproved\\AutoRouteCollector.php',
+      53 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Routes\\AutoRouterImproved\\ControllerMethodReader.php',
+      54 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Routes\\ControllerFinder.php',
+      55 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Routes\\ControllerMethodReader.php',
+      56 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Routes\\FilterCollector.php',
+      57 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Routes\\FilterFinder.php',
+      58 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Utilities\\Routes\\SampleURIGenerator.php',
+      59 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Worker\\Views\\Caddyfile.tpl',
+      60 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Worker\\Views\\frankenphp-worker.php.tpl',
+      61 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Worker\\WorkerInstall.php',
+      62 => 'C:\\Users\\Udin C\\Documents\\kuliah yansya\\semester 4\\PemroWeb\\UAS\\ci4\\system\\Commands\\Worker\\WorkerUninstall.php',
+    ),
+  ),
+);
