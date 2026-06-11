@@ -39,7 +39,7 @@ UAS/
 ![Dashboard](screenshots/dashboard.png)
 
 ### Form Modal Tambah/Edit Data
-![Modal](screenshots/modal.png)
+![Modal](gambar/modal.png)
 
 ### Tabel Data
 ![Table](screenshots/table.png)
