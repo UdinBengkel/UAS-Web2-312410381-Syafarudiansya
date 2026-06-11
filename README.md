@@ -27,7 +27,7 @@ UAS/
 ## Screenshot
 
 ### Skema Database
-![Database Schema](<img width="1459" height="274" alt="Image" src="https://github.com/user-attachments/assets/7ffba2ea-e89f-4c62-8993-a63dc93321a8" />)
+![Database Schema]<img width="1459" height="274" alt="Image" src="https://github.com/user-attachments/assets/7ffba2ea-e89f-4c62-8993-a63dc93321a8"/>
 
 ### Uji API Tanpa Token (401 Unauthorized)
 ![401 Error](screenshots/postman_401.png)
