@@ -4,8 +4,7 @@ RUN apt-get update && apt-get install -y \
     libonig-dev \
     libzip-dev \
     libicu-dev \
-    unzip \
-    curl \
+    unzip curl git \
     && docker-php-ext-install mysqli pdo pdo_mysql mbstring zip intl \
     && a2enmod rewrite
 
@@ -25,5 +24,4 @@ RUN echo '<VirtualHost *:80>\n\
 </VirtualHost>' > /etc/apache2/sites-available/000-default.conf
 
 EXPOSE 80
-
 CMD apache2-foreground
