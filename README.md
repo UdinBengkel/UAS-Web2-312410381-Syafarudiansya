@@ -5,8 +5,7 @@
 | **Nama** | *Syafarudiansya* |
 | **NIM** | *312410381* |
 | **Kelas** | I241A |
-| **Mata Kuliah** | Pengolahan Citra |
-| **Topik** | Deteksi Pejalan Kaki dengan HOG + Linear SVM |
+| **Mata Kuliah** | Pemrograman Web 2 |
 
 Aplikasi web full-stack untuk manajemen perpustakaan digital, dibangun dengan arsitektur decoupled (Backend API + Frontend SPA).
 
