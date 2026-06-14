@@ -6,7 +6,6 @@ RUN apt-get update && apt-get install -y \
     libicu-dev \
     unzip curl git \
     && docker-php-ext-install mysqli pdo pdo_mysql mbstring zip intl \
-    && a2dismod mpm_event || true \
     && a2enmod rewrite
 
 COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
@@ -25,4 +24,5 @@ RUN echo '<VirtualHost *:80>\n\
 </VirtualHost>' > /etc/apache2/sites-available/000-default.conf
 
 EXPOSE 80
-CMD ["apache2-foreground"]
+
+CMD ["/bin/sh", "-c", "rm -f /etc/apache2/mods-enabled/mpm_event.* /etc/apache2/mods-enabled/mpm_worker.* && apache2-foreground"]
