@@ -41,7 +41,7 @@ class Database extends Config
         'compress'     => false,
         'strictOn'     => false,
         'failover'     => [],
-        'port'     => env('DB_PORT', 3306),
+        'port'         => (int) env('MYSQLPORT', 3306),
         'numberNative' => false,
         'foundRows'    => false,
         'dateFormat'   => [
