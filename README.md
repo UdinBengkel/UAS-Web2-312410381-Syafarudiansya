@@ -68,4 +68,4 @@ php -S localhost:5500
 
 ## Link
 - Demo: [link demo]("e-library-uas.netlify.app")
-- Video Presentasi: [link youtube]("https://www.youtube.com/watch?v=qleKdOAOtiQ")
+- Video Presentasi: [Link Youtube](https://www.youtube.com/watch?v=qleKdOAOtiQ)
