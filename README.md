@@ -67,5 +67,5 @@ php -S localhost:5500
 - Password: `admin123`
 
 ## Link
-- Demo: [link demo]("https://elibrary-api.freedev.app/index.html")
+- Demo: [link demo](https://elibrary-api.freedev.app/index.html)
 - Video Presentasi: [Link Youtube](https://www.youtube.com/watch?v=qleKdOAOtiQ)
