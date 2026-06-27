@@ -67,5 +67,5 @@ php -S localhost:5500
 - Password: `admin123`
 
 ## Link
-- Demo: [link demo]
-- Video Presentasi: [link youtube]
+- Demo: [link demo]("e-library-uas.netlify.app")
+- Video Presentasi: [link youtube]("https://www.youtube.com/watch?v=qleKdOAOtiQ")
